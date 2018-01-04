@@ -1,5 +1,5 @@
-# STD 2
-[点击这里进入STD 2 问题跟踪](https://github.com/aoxu/std2/issues)
+# Star Raiders
+[点击这里进入SR 问题跟踪](https://github.com/aoxu/std2/issues)
 
 # 首次使用指南
 1. [点击此处](https://github.com/settings/profile)进入头像设置，上传与QQ一样的头像，方便识别。
